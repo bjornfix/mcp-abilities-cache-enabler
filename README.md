@@ -2,7 +2,7 @@
 
 Cache Enabler diagnostics and cache management for WordPress via MCP.
 
-[![GitHub release](https://img.shields.io/github/v/release/bjornfix/mcp-abilities-cache-enabler)](https://github.com/bjornfix/mcp-abilities-cache-enabler/releases)
+[![GitHub release](https://img.shields.io/github/v/release/bjornfix/mcp-abilities-cache-enabler?cacheSeconds=3600)](https://github.com/bjornfix/mcp-abilities-cache-enabler/releases)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 [![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue.svg)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple.svg)](https://php.net)
